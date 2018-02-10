@@ -1,0 +1,6 @@
+githubToken: yourToken
+gitlabToken: yourToken
+githubUrl: https://api.github.com
+githubRemoteUrl: git@github.com:yourname/{projectName}.git
+gitlabUrl: https://gitlab.com/api/v4/
+gitlabRemoteUrl: git@gitlab.com:yourname/{projectName}.git
